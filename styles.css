@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.nav{
+	display="flex";
+	align-items="left";
+	justify-content="space-between";
+}
